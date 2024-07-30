@@ -5,12 +5,6 @@
 🔭 I have decided to lead my career path into the tech industry<br>🌱 I learn all the time, nowadays I learn programming seriously every day<br><br>
 
 </div>
-
-<h2 align="center"> 🌐 Socials:</h1>
-
-<div align="center">
-
-</div>
   
 <h2 align="center"> 💻 Tech Stack:</h1>
 
